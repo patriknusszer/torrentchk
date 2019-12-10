@@ -1,0 +1,10 @@
+/Users/nusszerpatrik/Projects/torrentchk/torrentchk/bin/Debug/netcoreapp2.1/torrentchk.deps.json
+/Users/nusszerpatrik/Projects/torrentchk/torrentchk/bin/Debug/netcoreapp2.1/torrentchk.runtimeconfig.json
+/Users/nusszerpatrik/Projects/torrentchk/torrentchk/bin/Debug/netcoreapp2.1/torrentchk.runtimeconfig.dev.json
+/Users/nusszerpatrik/Projects/torrentchk/torrentchk/bin/Debug/netcoreapp2.1/torrentchk.dll
+/Users/nusszerpatrik/Projects/torrentchk/torrentchk/bin/Debug/netcoreapp2.1/torrentchk.pdb
+/Users/nusszerpatrik/Projects/torrentchk/torrentchk/obj/Debug/netcoreapp2.1/torrentchk.csproj.CoreCompileInputs.cache
+/Users/nusszerpatrik/Projects/torrentchk/torrentchk/obj/Debug/netcoreapp2.1/torrentchk.AssemblyInfoInputs.cache
+/Users/nusszerpatrik/Projects/torrentchk/torrentchk/obj/Debug/netcoreapp2.1/torrentchk.AssemblyInfo.cs
+/Users/nusszerpatrik/Projects/torrentchk/torrentchk/obj/Debug/netcoreapp2.1/torrentchk.dll
+/Users/nusszerpatrik/Projects/torrentchk/torrentchk/obj/Debug/netcoreapp2.1/torrentchk.pdb
